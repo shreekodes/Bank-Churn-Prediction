@@ -55,7 +55,7 @@ st.markdown("""
 def load_model():
     """Load the pre-trained model"""
     try:
-        model = joblib.load('xgb_churn_model(1).pkl')  # Update with your model filename
+        model = joblib.load('xgb_churn_model.pkl')  # Update with your model filename
         return model
     except FileNotFoundError:
         st.error("Model file not found. Please ensure 'churn_model.pkl' is in the same directory.")
