@@ -44,20 +44,7 @@ This project builds a **classification model** that predicts the probability of 
 | ROC AUC        | 0.91  |
 | Algorithm      | XGBoost (Tuned) |
 
----
 
-## 📁 Project Structure
-📦 Bank Churn Prediction
-│
-├── app.py # Streamlit app for deployment
-├── churn_model.pkl # Trained XGBoost model
-├── final_encoded_bank_churn.csv # Processed dataset used for training
-├── requirements.txt # All necessary libraries
-├── churn_notebook.ipynb# Full EDA, training & evaluation
-└── README.md # You're here!
-
-
----
 
 ## 🚀 How to Run Locally
 
@@ -65,7 +52,7 @@ This project builds a **classification model** that predicts the probability of 
 git clone https://github.com/yourusername/bank-churn-prediction
 cd bank-churn-prediction
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py```
 
 ---
 
