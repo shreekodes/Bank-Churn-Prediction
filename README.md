@@ -6,8 +6,7 @@ This project showcases a **production-ready ML pipeline** built to solve a real-
 ---
 
 ## 🔥 Demo  
- Try it live: [[Streamlit App Link] (https://banking-ch.streamlit.app/)] 
-
+ Try it live: [[[Streamlit App Link](https://banking-ch.streamlit.app/)]
 ---
 
 ## 📊 Problem Statement  
