@@ -48,7 +48,7 @@ This project builds a **classification model** that predicts the probability of 
 
 ## 🚀 How to Run Locally
 
-```bash
+```
 git clone https://github.com/yourusername/bank-churn-prediction
 cd bank-churn-prediction
 pip install -r requirements.txt
