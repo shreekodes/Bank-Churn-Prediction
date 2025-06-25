@@ -44,16 +44,6 @@ This project builds a **classification model** that predicts the probability of 
 | ROC AUC        | 0.91  |
 | Algorithm      | XGBoost (Tuned) |
 
-
-
-## 🚀 How to Run Locally
-
-```
-git clone https://github.com/yourusername/bank-churn-prediction
-cd bank-churn-prediction
-pip install -r requirements.txt
-streamlit run app.py```
-
 ---
 
 ## 📢 Want to Collaborate or Hire?
